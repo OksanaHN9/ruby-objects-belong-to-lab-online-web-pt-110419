@@ -1,0 +1,5 @@
+Class artist 
+
+def artist 
+  
+  
